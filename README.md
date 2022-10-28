@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aras and I'm a student from Taiwan with a dual expertise in computer science and business... Here's some info about me!
+My name is Aras and I'm a student from Taiwan with a dual expertise in computer science and business. Here's some info about me!
 
 ⚡ Work experience:
 
