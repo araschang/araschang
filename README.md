@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aras and I'm a student from Taiwan with a dual expertise in computer science and business. Here's some info about me!
+My name is Aras and I'm a senior from National Taiwan University with a dual expertise in computer science and business. Here's some info about me!
 
 ⚡ Work experience:
 
@@ -13,7 +13,7 @@ My name is Aras and I'm a student from Taiwan with a dual expertise in computer 
 
 🌱 Interests:
 
-* Data science, quant research, create anything.<br>
+* web development, quant research, create anything.<br>
 * Photography. Video production. Piano player. Badminton player and always ready for a challenge.
 
 💬 Reach me by email or LinkedIn! arashappy@gmail.com | www.linkedin.com/in/araschang
