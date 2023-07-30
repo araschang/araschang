@@ -13,7 +13,7 @@ My name is Aras and I'm a senior from National Taiwan University with a dual exp
 
 🌱 Interests:
 
-* web development, quant research, create anything.<br>
+* Web development, quant research, create anything.<br>
 * Photography. Video production. Piano player. Badminton player and always ready for a challenge.
 
 💬 Reach me by email or LinkedIn! arashappy@gmail.com | www.linkedin.com/in/araschang
