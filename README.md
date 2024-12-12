@@ -4,7 +4,7 @@ My name is Aras and I'm graduated from National Taiwan University with a dual ex
 
 ⚡ Work experience:
 
-* **Quant Developer intern @ [Medina Partners](https://www.linkedin.com/company/medina-partners/)** [Taipei, Taiwan. 2023.09~]<br>
+* **Quant Developer @ [Medina Partners](https://www.linkedin.com/company/medina-partners/)** [Taipei, Taiwan. 2023.09~]<br>
 * **Quant Researcher intern @ [Mutual Boost Quantamental](https://www.linkedin.com/company/medina-partners/)** [Taipei, Taiwan. 2023.12~2024.08]<br>
 * **Data Engineer intern @ [FarEasTone Telecom](https://corporate.fetnet.net/content/corp/en/index.html)** [Taipei, Taiwan. 2023.02~2023.08]<br>
 * **Teaching Assistant @ [National Taiwan University](https://www.ntu.edu.tw/english/)** - Programming for Business Computing (Python). [Taipei, Taiwan. Spring 2022, Spring 2023]
